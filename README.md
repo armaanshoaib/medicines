@@ -43,8 +43,8 @@ samples, guidance on mobile development, and a full API reference.
 
 ### Screenshots :
 
-<img src= "scr/welcome_screen.png"  width="40%">
-<img src= "scr/add_pills_screen.png"  width="40%">
-<img src= "scr/home_screen.png"  width="40%">
-<img src= "scr/home_screen_2.png"  width="40%">
-<img src= "scr/notify_screen.png"  width="40%">
+<img src= "iomp_medisync_ss/Screenshot 2024-11-12 192831.png"  width="100%">
+<img src= "iomp_medisync_ss/Screenshot 2024-11-12 193221.png"  width="40%">
+<img src= "iomp_medisync_ss/Screenshot 2024-11-12 193012.png"  width="100%">
+<img src= "iomp_medisync_ss/Screenshot 2024-11-12 193155.png"  width="100%">
+<img src= "iomp_medisync_ss/Screenshot 2024-11-12 193129.png"  width="100%">
